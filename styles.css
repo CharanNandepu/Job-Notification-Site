@@ -1,0 +1,32 @@
+/* public/styles.css */
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: #f0f0f0;
+}
+
+h1 {
+    text-align: center;
+}
+
+#job-list {
+    margin: 20px auto;
+    width: 80%;
+    max-width: 800px;
+}
+
+.job {
+    background: #fff;
+    padding: 20px;
+    margin: 10px 0;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.job h2 {
+    margin-top: 0;
+}
+
+.job p {
+    margin: 5px 0;
+}
